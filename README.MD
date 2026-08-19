@@ -58,8 +58,11 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omerzelka&show_icons=true&theme=radical&rank_icon=github" alt="Ömer's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerzelka&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=omerzelka&show_icons=true&theme=radical&hide_border=true" alt="Ömer's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerzelka&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
