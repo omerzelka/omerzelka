@@ -57,13 +57,13 @@
 
 ### 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omerzelka&show_icons=true&theme=radical&hide_border=true" alt="Ömer's GitHub Stats"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerzelka&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</p>
+![Ömer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omerzelka&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omerzelka&layout=compact&theme=radical)
+
+</div>
 
 ---
 
