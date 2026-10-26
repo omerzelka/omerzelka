@@ -24,7 +24,7 @@ struct Engineer omer = {
     .university  = "Gebze Technical University",
     .major       = "Computer Engineering",
     .lives_at    = "software ∩ hardware",
-    .team        = "Kılavuz Karan — TEKNOFEST 2026 İKA",
+    .team        = "Kılavuz Karan — TEKNOFEST 2026 UGV",
     .role        = "Embedded Software & Test",
     .currently   = { "RISC-V core modules", "RTL-to-GDSII on SKY130",
                      "ROS 2 Humble UGV stack", "POSIX C utilities" },
@@ -33,29 +33,29 @@ struct Engineer omer = {
 ```
 
 <!-- ═══════════════════════════ FOCUS ═══════════════════════════ -->
-## 🚀 Şu An Üzerinde Çalıştıklarım
+## 🚀 What I'm Currently Working On
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🔬 Hardware & VLSI
-Custom **RISC-V** modülleri tasarlıyor, **OpenLane** + **Yosys** ile uçtan uca **RTL → GDSII** akışı koşturuyorum.
+Designing custom **RISC-V** modules and running full **RTL → GDSII** flows with **OpenLane** + **Yosys**.
 
 ### 🤖 Autonomous Systems
-**TEKNOFEST** için **ROS 2 Humble** tabanlı İnsansız Kara Aracı: LiDAR entegrasyonu & FSM yönetimi.
+Building a **ROS 2 Humble** based Unmanned Ground Vehicle for **TEKNOFEST**: LiDAR integration & FSM management.
 
 ### ⚙️ Systems Programming
-**C** ve **POSIX** ile çok süreçli komut satırı araçları, düşük seviye bellek yönetimi.
+Multi-process command-line utilities in **C** following **POSIX** standards, with low-level memory management.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎮 Game & Engine Dev
-**Godot** ve **SFML** ile çok yönlü hareket mantığı ve pixel-art render.
+Multi-directional movement logic and pixel-art rendering with **Godot** and **SFML**.
 
 ### 🧠 AI Integration
-Lokal **LLM** runtime ortamları ve custom **Model Context Protocol (MCP)** sunucuları.
+Local **LLM** runtime environments and custom **Model Context Protocol (MCP)** servers.
 
 ### ⚡ Motto
 > *"If it compiles, synthesize it. If it synthesizes, tape it out."*
@@ -95,21 +95,36 @@ Lokal **LLM** runtime ortamları ve custom **Model Context Protocol (MCP)** sunu
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════ FEATURED ═══════════════════════════ -->
-## 📌 Öne Çıkan Projeler
+## 📌 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/omerzelka/RISC-V_Cache_Management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=omerzelka&repo=RISC-V_Cache_Management&theme=tokyonight&hide_border=true&border_radius=12" />
-  </a>
-  <!-- Diğer repolarını buraya ekle: repo=REPO_ADI -->
-</div>
+<table>
+<tr>
+<td width="100%">
+
+### 🧠 [RISC-V Cache Management](https://github.com/omerzelka/RISC-V_Cache_Management)
+
+An **L1 cache** and **main memory controller** for a RISC-V system, written in **Verilog**. It sits between the core and main memory, serving hits from the cache and handling misses by fetching data from memory.
+
+<!-- TODO: add specifics, e.g. "direct-mapped / N-way set-associative, write-back + write-allocate, LRU replacement, verified with Icarus/Verilator testbenches" -->
+
+<img src="https://img.shields.io/badge/Verilog-E100FF?style=flat-square" /> <img src="https://img.shields.io/badge/RISC--V-283272?style=flat-square&logo=riscv&logoColor=F9B21D" /> <img src="https://img.shields.io/badge/Computer_Architecture-7F00FF?style=flat-square" /> <img src="https://img.shields.io/github/stars/omerzelka/RISC-V_Cache_Management?style=flat-square&color=00F5FF&labelColor=1a1b27" />
+
+</td>
+</tr>
+</table>
+
+<!-- Copy the table above to add more projects -->
 
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=omerzelka&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerzelka&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+</div>
+
+<div align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
 </div>
 
 <div align="center">
